@@ -1,0 +1,14 @@
+﻿  calculateFunctions.cpp
+  DecisionTree.cpp
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(38,6): warning C4101: 'label': unreferenced local variable
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(470,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(471,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(472,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DecisionTreeNode.cpp
+  main.cpp
+  Generating code
+  Compiler version has changed, fall back to full compilation.
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(234): warning C4715: 'DecisionTree::predict': not all control paths return a value
+  All 189 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cs202_assignment2.vcxproj -> D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\x64\Release\cs202_assignment2.exe

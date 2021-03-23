@@ -1,0 +1,7 @@
+﻿  DecisionTree.cpp
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(39,6): warning C4101: 'label': unreferenced local variable
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(471,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(472,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(473,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\DecisionTree.cpp(239): warning C4715: 'DecisionTree::predict': not all control paths return a value
+  cs202_assignment2.vcxproj -> D:\VisualStudio_Projects\Algorithms\Serching&Sorting\cs202_assignment2\cs202_assignment2\x64\Debug\cs202_assignment2.exe
